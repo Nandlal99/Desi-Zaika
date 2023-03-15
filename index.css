@@ -1,0 +1,257 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height: 80px;
+    position:fixed;
+    top: 0;
+    left: 0;
+    background-color:white;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 2px 2px 2px 1px #0003;
+} 
+
+ .logo > a > img{
+    width: 80px;
+    margin-left: 10px;
+}
+
+.nav-item > ul{
+    list-style: none;
+    display: flex;
+    margin-top: 7px;
+}
+
+.nav-item > ul > li{
+    padding: 10px;
+}
+
+.card {
+    height: 250px;
+    width: 270px;
+    flex-basis: 0px;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 1px solid white;
+} 
+
+.card > img{
+    width: 100%;
+}
+.card-item{
+    color: black;
+}
+
+.card-title{
+    word-spacing: 3px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.card-cuisine{
+    color: #686b78;;
+    font-size: 13px;
+    margin-top: 4px;
+}
+
+.card >h5{
+    color: gray;
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+.rating{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.restaurant-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+    padding-top: 20px;
+}
+
+.footer{
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    color: #001d3d;
+    text-align: center;
+    background-color: #ffc300;
+    line-height: 50px;
+    box-shadow: 2px 2px 2px 1px #0003;
+}
+
+.footer-text{
+    text-align: center;
+}
+
+.red-heart{
+    color: red;
+}
+
+.search{
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+    margin-left: 25rem;
+    width:max-content;
+    padding: 10px;
+    display: flex;
+}
+
+.search-text{
+    width: 20rem;
+    margin-right: 3rem;
+    padding: 7px;
+    border-radius: 5px;
+    background-color: #eee;
+    border: 0 inset #0006;
+    font-size: 16px;
+    flex-basis: 350px;
+}
+
+.search-btn{
+    height: 30px;
+    background-color: #ffc300;
+    border-radius: 5px;
+    border: #ffc300;
+    font-size: 16px;
+    flex-basis: 50px;
+    outline: none;
+    flex-basis: 70px;
+}
+
+.shimmerUI{
+    margin: 90px;
+}
+
+.notFound{
+    height: 300px;
+    margin: 5px;
+}
+
+.notFound > img{
+    width: 90%;
+}
+
+.rating-logo{
+    background-color: #48c479;
+    color: #fff;
+    width: 40px;
+}
+
+.icon-star{
+    font-size: 16px;
+    margin-right: 4px;
+    position: relative;
+    
+}
+
+.icon-star:before{
+    content: "";
+    
+}
+
+.shimmer-search{
+    padding-top: 5px;
+    text-align: center;
+    height: 30px;
+    margin-top: 8rem;
+    margin-left: 26rem;
+    width: 25rem;
+    border-radius: 5px;
+    background-color: #ced0d7;
+}
+.shimmer-box{
+    height: 250px;
+    width: 270px;
+    margin-top: 3rem;
+    border-radius: 5px;
+    margin-left: 12px;
+    background-color: #ced0d7;
+}
+
+.about{
+    margin-top: 90px;
+}
+
+.contact{
+    margin-top: 90px;
+}
+
+.error{
+    margin-top: 30px;
+}
+
+.restaurantDetails{
+    margin-top: 90px;
+    display: flex;
+    gap: 50px;
+    height: 200px;
+    padding: 20px;
+    background: #171a29;
+    color: white;
+}
+
+.detail-item{
+    margin-top: 10px;
+}
+
+.detail-item > h4{
+    margin-top: 10px;
+}
+
+.detail-rating{
+    display: flex;
+    margin-top: 10px;
+    gap: 30px;
+}
+
+.avgRating > h4{
+    margin-top: 5px;
+}
+
+.deliveryTime > h4{
+    margin-top: 5px;
+}
+
+.costForTwo > h4{
+    margin-top: 5px;
+}
+
+.restaurnatMenu{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    
+}
+
+.useOnline{
+    color: green;
+}
+
+.useOffline{
+    color: gray;
+}
+
+.useOnlineHook{
+    margin-top: 90px;
+    background-color: gray;
+}
+
+.Instamart{
+    margin-top: 90px;
+} */
